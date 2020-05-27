@@ -8,6 +8,7 @@
 #include "numerical_recipes.c/tred2.c"
 #include "numerical_recipes.c/pythag.c"
 
+#define n 7
 
 float scalar_product(float *x1) //funkcja pozwalająca na otrzymanie normy euklidesowej
 {
